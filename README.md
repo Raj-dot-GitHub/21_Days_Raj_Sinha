@@ -12,3 +12,6 @@ Heyy, I'm Raj Sinha and I would be following the Advanced-NLP track
 
 ### Day 3:
 1. Read blogs on the basic concepts of CNN.
+
+### Day 4:
+1. Followed video tutorials to learn Regular Expression.
