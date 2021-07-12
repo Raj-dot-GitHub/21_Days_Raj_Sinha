@@ -15,3 +15,12 @@ Heyy, I'm Raj Sinha and I would be following the Advanced-NLP track
 
 ### Day 4:
 1. Followed video tutorials to learn [Regular Expression](https://github.com/Raj-dot-GitHub/Regular_Expressions).
+
+### Day 5:
+Read blogs on NLP by Analytics vidhya:- 
+Step-by-step guide to master NLP part 1-3.
+
+### Day 6:
+NLP blogs by Analytics vidhya:-
+1. Step-by-step guide to master NLP part 3-6.
+2. Read 10 NLP interview questions.
